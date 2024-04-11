@@ -1,0 +1,390 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Reading - First page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-xxxxxxx" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/Content/Test1.css">
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" 
+<a href="Page-3.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="">Khóa học</a>
+                    </li>
+                            <a class="nav-link" href="">Bài học</a>
+                        </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="">Bài kiểm tra</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="Header">
+            <div class="logo">
+                <img src="images/docne.jpg"  />
+            </div>
+            <h2>Reading Test</h2>
+        </div>
+
+        <script>
+            //<![CDATA[
+            window.addEventListener('load', function () {
+                var q = $('.question'),
+                    w = ["Bạn là thần đồng", "Bạn rất suất xắc có thể học qua lớp Professional", "Kiến thức của bạn khá tốt  có thể thử qua lớp Intermidiate", "Bạn có thể làm tốt hơn thế sau khi thử qua lớp Beginner của chúng tôi"]
+                $(q).each(function (n) {
+                    var ul = $(q[n]).find('ul'), mes = $(q[n]).parent().find('.message')
+                    console.log(mes)
+                    $(ul).each(function (i, v) {
+                        var li = $(ul[i]).find('li'), p = $(ul[i]).next('p'), cor = $(ul[i]).find('li.correct')
+                        $(li).one('click', function () {
+                            $(this).parent().addClass('answered')
+                            $(this).addClass('selected')
+                            $(p).appendTo($(cor)).addClass('explaination')
+                            if (i == ul.length - 1) {
+                                var corr = $(ul).find('li.correct.selected').length,
+                                    s = corr * 100 / ul.length - 1
+                                v = '<span class="correct">' + corr + '</span><span class="total">' + ul.length + '</span>',
+                                    $(v).insertAfter($(mes))
+                                w.forEach(function () {
+                                    if (s == 100) $(mes).html(w[0])
+                                    else if (s >= 80) $(mes).html(w[1])
+                                    else if (s >= 50) $(mes).html(w[2])
+                                    else $(mes).html(w[3])
+                                })
+                            }
+                        })
+                    })
+                })
+            })
+//]]></script>
+        <style>/* <![CDATA[ */
+.box-question{float:left;width:100%;font-family:Roboto,Arial,sans-serif;font-size:1rem;color:#333}
+.box-question h2,.box-question h3{margin-bottom:20px!important;cursor:default}
+.box-question h2{font-size:1.3rem!important}
+.box-question h3{font-size:1.2rem!important;font-weight:normal!important}
+table.picture{width:100%;border-collapse:collapse;border-spacing:0;margin:18px 0;border-radius:5px;background:#FFEB00;overflow:hidden;line-height:1.5}
+table.picture+.picture{margin-top:22px}
+table.picture td{position:relative;cursor:default}
+table.picture img{max-width:100%;width:100%;height:auto;display:block}
+table.picture td.caption{padding:20px 20px 0 20px!important;color:#000}
+.question ul{margin:10px 0 20px!important;list-style:none;padding:0!important}
+.question ul>li{float:left;width:100%;background:rgba(0,0,0,0.05);padding:15px 10px 15px 50px;margin-bottom:5px;position:relative;font-weight:bold!important;border-radius:30px;list-style-type:none!important;line-height:1.6}
+.question ul>li:before{display:block;position:absolute;top:13px;left:10px;width:30px;height:30px;border-radius:100%;background:rgba(0,0,0,0.1);text-align:center;line-height:30px}
+.question ul>li:first-child:before{content:"A"}
+.question ul>li:nth-child(2):before{content:"B"}
+.question ul>li:nth-child(3):before{content:"C"}
+.question ul>li:nth-child(4):before{content:"D"}
+.question ul>li:nth-child(5):before{content:"E"}
+.question ul>li:nth-child(6):before{content:"F"}
+.question ul>li:nth-child(7):before{content:"G"}
+.question ul>li:nth-child(8):before{content:"H"}
+.question ul>li>span,.question ul>li>strong{color:#000!important;font-weight:bold!important}
+.question ul.answered>li:not(.selected):not(.correct){opacity:0.4}
+.question ul.answered>li.selected{opacity:1;border-radius:5px}
+.question ul.answered>li.selected:not(.correct){background:#f16464}
+.question ul.answered>li.correct{background:#55d000}
+.question ul+p:not(.explaination){display:none;margin:15px 0}
+.question ul>li>p.explaination{margin:0;color:#fff;font-weight:normal}
+.question+.result{float:left;width:100%;margin:20px 0;position:relative;background:#f3f3f3;font-weight:300;text-align:center;font-size:1.8rem;padding:20px 10px 25px;line-height:1.1}
+.question+.result:before{content:"Kết quả";color:#888;text-align:center;margin-right:10px;display:block;font-size:0.8em;border-bottom:1px solid #ddd;padding-bottom:20px;margin-bottom:30px}
+.question+.result>.message{display:block;margin:15px 0}
+.question+.result>.correct{color:#55d000;font-weight:bold;font-size:2em}
+.question+.result>.total{font-size:2em;color:#f16464}
+.question+.result>.total:before{content:"/"}
+/*media(min-width:1025px){.question ul:not(.answered)>li{cursor:pointer}.question ul.answered>li{cursor:default;pointer-events:none}}
+*//* ]]> */</style>
+<script>//<![CDATA[
+      window.addEventListener('load',function(){
+        var data_embed=$('#comments').attr('data-embed'),data_allow_comments=$('#comments').attr('data-allow-comments'),
+          elem=document.querySelector('.commentForm'),_elem=document.querySelector('#comments .comment-form'),
+          _href=$(_elem).attr('data-href')       
+        if(data_embed=='true'&&data_allow_comments=='true'){
+          if(url.indexOf('#comments')!=-1||url.indexOf('?showComment')!=-1){
+            if($('#comments').hasClass('threaded'))appendChildHead('https://www.blogger.com/dyn-css/authorization.css?targetBlogID='+data.blog.blogId,'css')
+            $(_elem).append('<a href='+_href+' id="comment-editor-src"></a>')
+            $(elem).removeClass('hidden')
+            $(elem).append('<iframe class="blogger-iframe-colorize blogger-comment-from-post" id="comment-editor" name="comment-editor" src="" title="comment iframe"></iframe>')
+            loadJS('https://www.blogger.com/static/v1/jsbin/2567313873-comment_from_post_iframe.js','js')
+            setTimeout(function(){
+              BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html')
+              $(elem).removeClass('loading')
+            },500)
+          }else{
+            var load_iframe=false
+            $(window).on('scroll',function(){
+              if($(this).scrollTop()>=$('.post-body').position().top){
+                if(!load_iframe){
+                  load_iframe=true
+                  if($('#comments').hasClass('threaded'))appendChildHead('https://www.blogger.com/dyn-css/authorization.css?targetBlogID='+data.blog.blogId,'css')
+                  $(_elem).append('<a href='+_href+' id="comment-editor-src"></a>')
+                  $(elem).removeClass('hidden')
+                  $(elem).append('<iframe class="blogger-iframe-colorize blogger-comment-from-post" id="comment-editor" name="comment-editor" src="" title="comment iframe"></iframe>')
+                  loadJS('https://www.blogger.com/static/v1/jsbin/2567313873-comment_from_post_iframe.js','js')
+                  setTimeout(function(){
+                    BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html')
+                    $(elem).removeClass('loading')
+                  },500)  
+                }
+              }
+            })
+          }
+          $('.post-comment').click(function(){
+            $('html,body').animate({scrollTop:$('#comments').offset().top-$('header.header').height()},1000)
+          })
+          $('.comment [data-quote]').click(function(){
+            var a=$(this).attr('data-quote').split('<br />').join(' '),
+            b=$('link[rel="canonical"]').attr('href'),
+            c='https://www.facebook.com/dialog/share?app_id=310510359878791&href='+b+'&quote='+a,
+            d=screen.width/2-200,e=screen.height/2-225;
+            window.open(c,"popUpWindow","height=450,width=400,left="+d+",top="+e+ ",resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes")
+          })
+          var l='',id='',li=''
+          $('.comment a.comment-reply').click(function(e){
+            l=$('#comment-editor').attr('src')
+            $('.calcel-reply').remove()
+            $('.comment-actions').removeAttr('style')
+            var $this=$(this),
+            id=$this.attr('data-comment-id')
+            l=l+'&parentID='+id
+            li=$this.parent().parent().parent().attr('id')
+            $('#comment-editor').attr('src',l)
+            $this.parent().hide()
+            $(elem).appendTo($('#'+li+'>.comment-replybox-single'))
+            $('html,body').animate({scrollTop:$(elem).offset().top-$('header.header').height()},1000)
+            $('#'+li+'>.comment-replybox-single').append('<div class="calcel-reply"><button aria-label="Hủy" class="theme-button blue" type="button">Hủy</button></div>')
+            $('.calcel-reply').click(function(){
+              $(this).remove()
+              $('.comment-actions').removeAttr('style')
+              $(elem).appendTo($('.comment-form'))
+              $('html,body').animate({scrollTop:$(elem).offset().top-$('header.header').height()},1000)
+            })
+          })  
+          $('.toplevel-thread>ol>li>.comment-replies').each(function(){
+            if($(this).find('.comment-thread>ol>li').length>0){
+              $(this).before('<div class="view-replies"><span class="has-hover">Xem '+$(this).find('.comment-thread>ol>li').length+' câu trả lời</span></div>')
+            }
+            $('.comment .view-replies>span').click(function(){
+              $(this).parent().hide()
+              $(this).parent().next().removeClass('hidden')
+            })
+          })
+          var str=$('.toplevel-thread>ol>li'),m=10,n=str.length,k=0,p=0
+          if(url.indexOf('?showComment')!=-1){
+            if(url.indexOf('#c')!=-1){
+              var li='#'+url.substring(url.indexOf('#c')+1,url.length)
+              if($(li).parents('.comment-thread').hasClass('thirdlevel-thread'))k=$(li).parents('li').parents('li').index()
+              else if($(li).parents('.comment-thread').hasClass('secondlevel-thread'))k=$(li).parents('li').index()
+              else k=$(li).index()
+              if(k>m)for(var i=0;i<k+1;i++)$(str[i]).removeClass('hidden')
+              else for(var i=0;i<m;i++)$(str[i]).removeClass('hidden')
+              if(k<n){$('#comments .loadmore').removeClass('hidden')}
+              $(li).parents('li').find('.view-replies').hide()
+              $(li).parents('.comment-replies').removeClass('hidden')
+              $('html,body').animate({scrollTop:$(li).offset().top-$('header.header').height()},1000)
+            }else{
+              for(var i=0;i<m;i++)$(str[i]).removeClass('hidden')
+              if(n>m)$('#comments .loadmore').removeClass('hidden')
+            }
+          }else{
+            for(var i=0;i<m;i++)$(str[i]).removeClass('hidden')
+            if(n>m)$('#comments .loadmore').removeClass('hidden')
+          }
+          $('#comments .loadmore>a').click(function(){
+            p=$('.toplevel-thread>ol>li.comment.hidden').length
+            k=n-p
+            if(p==0){
+              $(this).parent().addClass('hidden')
+              $('#comments .showless').removeClass('hidden')
+            }else{for(var i=k;i<k+m;i++){$(str[i]).removeClass('hidden')}}
+          })    
+          $('#comments .showless>a').click(function(){
+            n=str.length
+            for(var i=m;i<n;i++){$(str[i]).addClass('hidden')}    
+            $(this).parent().addClass('hidden')
+            $('#comments .loadmore').removeClass('hidden')  
+            $('html,body').animate({scrollTop:$(elem).offset().top-$('header.header').height()},1000)
+          })
+          if(url.indexOf('#comments')!=-1)$('html,body').animate({scrollTop:$(elem).offset().top-$('header.header').height()},1000)
+        }
+        if(data.view.isPost=='true'){
+          var scroll=false
+          $(window).on('scroll',function(){
+            if($(this).scrollTop()>=$('.top-comments').position().top-50){
+              if(!scroll){
+                scroll=true
+                $.get('/search?max-results='+data.blog.searchindex,function(e){
+                  var m=$(e).find('.Blog .post')
+                  if(m.length){
+                    var a=[],b=[],f=0,n=10
+                    for(var k=0;k<=m.length;k++){
+                      var num=$(m[k]).find('.comment-icon').attr('data-num-comments')
+                      if(num>0){a.push(num+':'+k)}
+                    }
+                    a.sort(function(b,c){
+                      b=b.substr(0,b.indexOf(':'))
+                      c=c.substr(0,c.indexOf(':'))
+                      return c-b
+                    })
+                    f=(a.length>n) ? n : f=a.length
+                    a=a.slice(0,f)            
+                    a.forEach(function(i){
+                      i=i.substr(i.indexOf(':')+1,i.length)
+                      var html='<article class="post data-article" data-article-id='+$(m[i]).attr('data-article-id')+'>'+$(m[i]).html()+'</article>' 
+                      $('.top-comments .widget-content').append(html).removeClass('spinner load')
+                    })
+                    save_all_posts()
+                  }
+                })
+              }
+            }
+          })
+        }
+      })
+	//]]></script>
+<script async='async' defer='defer' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+<script async='async' defer='defer' src='https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js'></script>
+        <div class="quiz-main" data-quiztype="Graded" data-duration="0">
+            <ul>
+                <div class="separator" style="clear: both;">
+                    <b><span style="color: red;">All question must be filled <span style="color: blue;">"Check"</span> mới hiện ra</span></b>
+                </div>
+                <div class="box-question">
+                    <div class="question">
+                        <b><span style="color: black; font-family: Times, Times New Roman, serif;">Question 1: </span></b><b>
+                            <span style="color: black; font-family: Times, Times New Roman, serif;">
+                                In the UK, people celebrate Pancake Day. This festival takes place in February, on Shrove Tuesday. This is the day before Lent. Lent is an important time in the Christian calendar. It lasts 47 days. During Lent, people traditionally stop eating delicious food, like cakes and chocolate. So on Shrove Tuesday, they must eat up all the nice food in their cupboards. So they make pancakes, and they often eat them with lemon and sugar.
+
+                                Many British towns hold pancake races on Shrove Tuesday. People wear fancy dresses and run down the street with a pancake in a pan. They must throw the pancake in the air and catch it in the pan as they run. It must not fall on the ground.
+
+                                The tradition of pancake races started in Olney, Buckinghamshire. According to a story, a housewife made pancakes on Easter Sunday in 1445. Then she heard the church bells. She was worried because she was late for church, so she ran to church with her pan and pancake in her hand! Now, Olney’s pancake race is famous. All the competitors are housewives. They must toss the pancake three times as they run to the church. Then they must serve their pancake to the bell-ringer and receive a kiss from him.
+
+                                Westminster School, an old boys’ school in London, has a different pancake tradition. The school cook makes a huge pancake and throws it over a five-metre high bar. The schoolboys run to take a piece of the pancake. The boy with the biggest piece of pancake wins some money!
+
+                                These days, few British people give up delicious food for Lent. But most people eat pancakes on Pancake Day.
+                            </span>
+                        </b>
+                        <div><span style="color: red;">"So, Pancake Day is the first day of Lent?"</span></div>
+                        <ul>
+                            <li>True</li>
+                            <li class="correct">False</li>
+                        </ul>
+                        <b><span style="color: black; font-family: Times, Times New Roman, serif;">Question 1: </span></b><b>
+                            <span style="color: black; font-family: Times, Times New Roman, serif;">
+                                I’m almost 19 years old, and I finished my first year of university. I’m currently on holiday, and I have a lot of free time. Having free time is nice, but the problem is that when you are a student, you never have money. And when you have a lot of free time, but you don’t have much money, it can get boring.
+
+                                Every morning I go to the gym, and I read in the afternoons. But I still have a lot of free time. Going to the gym takes me about two hours, including the road time and the post-gym shower. And I usually read for one hour. Another activity that I do is watch documentaries. I study history, and I love historical documentaries. I learn a lot from them. I watch documentaries for one and a half hours four or five times a week.
+
+                                But those activities are a small part of my day. When I’m not at the gym or reading, I get bored, and I often play video games for hours. I enjoy playing video games, but I don’t think it’s a productive activity. When I play for a long time, I feel bad.
+                            </span>
+                        </b>
+                        <div><span style="color: red;">""Every day, he ..."""</span></div>
+                        <ul>
+                            <li>Watches documentaries</li>
+                            <li class="correct">Goes to the gym</li>
+                            <li>Teaches history</li>
+                            <li>Reads history books four or five times a week</li>
+                        </ul>
+
+
+                        <b><span style="color: black; font-family: Times, Times New Roman, serif;">Question 3: </span></b><b>
+                            <span style="color: black; font-family: Times, Times New Roman, serif;">
+                                What’s the difference between a medical student and a convict? The answer: A convict doesn’t pay $50,000 a year for the privilege of being fingerprinted and patted down. I am referring, of course, to the increasingly stringent security measures that have come to characterize modern educational testing. As student evaluation techniques have migrated from face-to-face assessment to computer-based exams administered in dedicated testing centers, evaluators have become less and less likely to know examinees, leading to heightened precautions around exam security.
+                                I recently interviewed a group of fourth-year medical students who had just taken Step 2 of the United States Medical Licensing Clinical Knowledge Examination at test-administration centers. Each of the students had paid $560 for the privilege, and had devoted nine hours to the single-day exam, which consists of eight sections of 40 to 45 questions each. Over the day, they received a total break time of 45 minutes. Students must pass the exam to obtain a medical license, and scoring well is an important factor in gaining admission to competitive medical specialties. So anxiety tends to run high.
+                                This inevitable anxiety is compounded by Checkpoint Charlie-esque security measures. IDs are checked. Each student wears a unique number on his or her shoulder throughout the day. Students are fingerprinted each time they enter and exit the testing room (up to 16 times). They are patted down and asked to roll up their pants legs and pull their pockets inside-out. If they wear a jacket or sweater into the exam room, they cannot take it off. They are warned that they will be under constant camera surveillance.
+                                One of the students, a former U.S. marine, said he had found the entire atmosphere of the exam eerily familiar. He had served in Iraq, helping to preside over the return of inhabitants to Fallujah after the city’s recapture by U.S. forces. “It was weird,” he said. “They were using many of the exact same procedures and equipment we used in Fallujah. It took so long for them to verify identities that you almost didn’t dare leave the room, for fear you couldn’t get back in time. I finally had to show one of the examiners how to do it properly.” Of course, these techniques are not merely for medical students. Aspiring accountants and architects, students sitting for the GRE, and prospective employees of Silicon Valley companies are all subjected to these medieval measures.
+                                Some might say that a high-security approach to testing students is not only necessary but laudable. In the case of medical testing, the health of the nation is a vital resource, and we cannot afford to place it in the hands of physicians who might have succeeded through academic dishonesty. Who would want a loved one to be cared for by a physician who had cheated on the medical-licensing exam? As public policy, exam hawks argue, we should demand the very highest security in all such testing.
+                                But perhaps we have gone overboard. After all, the core of the patient-physician relationship is trust. The Hippocratic Oath, which has shaped the ethics of medicine for many centuries, enjoins the physician to respect patients’ privacy and dignity and to always put each patient’s interests first. We entrust to our physicians all sorts of matters we would not share with anyone else—private details of our health and personal relationships, access to intimate parts of our bodies, sometimes even our lives. We want to trust our physicians. No one is arguing that security is unnecessary, but perhaps we haven’t quite yet found the sweet spot.
+                            </span>
+                        </b>
+                        <div><span style="color: red;">""The writer concludes that …"""</span></div>
+                        <ul>
+                            <li class="correct">a midpoint should be reached</li>
+                            <li>security is not necessary</li>
+                            <li>it’s getting difficult to rely on our GPs</li>
+                        </ul>
+                        <div class="Header">
+                            <div class="logo">
+                                <img src="images/nghene.jpg" />
+                            </div>
+                            <h2>Listening Test I</h2>
+                        </div>
+                        <div>
+
+                            <ul>
+                                <audio controls="controls">
+                                    <source src="audio/bai%20test%20listening.mp3" type="audio/mpeg"/>
+                                </audio>
+                            </ul>
+                            <b> <span>Listen to the audio and  answer question 1 to 5</span>
+                        </div>
+                        <h3>Where is she gonna visit?</h3>
+                        <ul>
+                            <li class="correct">Germany</li>
+                            <li>Portland</li>
+                            <li>England</li>
+                            <li>Finland</li>
+                        </ul>
+
+
+                        <h3>What can Mario help her With?</h3>
+                        <ul>
+                            <li class="correct">Send an email.</li>
+                            <li>Give Diraction.</li>
+                            <li>Give her a phone number</li>
+                            <li>>Help her find a taxi</li>
+                        </ul>
+
+
+                        <h3>When she want to visit them?</h3>
+                        <ul>
+                            <li>Next Month</li>
+                            <li>Next Monday.</li>
+                            <li>This Weekend</li>
+                            <li class="correct">Next Week</li>
+                        </ul>
+                        <h3>For the team meeting .What thing mario need to do first?</h3>
+                        <ul>
+                            <li>Send an invition to every one.</li>
+                            <li class="correct">Book a meeting room</li>
+                            <li>write a report</li>
+
+                        </ul>
+                        <h3>What time Can Mario dose what she ask for ?</h3>
+                        <ul>
+
+                            <li>2-3 week</li>
+                            <li>next Week</li>
+                            <li class="correct">this Week</li>
+                            <li>this weekend</li>
+                        </ul>
+                    </div>
+                    <div class="result"><span class="message">Hãy trả lời các câu hỏi để biết kết quả của bạn   </span></div>
+                </div>
+                
+
+                
+
+
+        </div>
+        </ul>
+
+    </main>
+</body>
+</html>

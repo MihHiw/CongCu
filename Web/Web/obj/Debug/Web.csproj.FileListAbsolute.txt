@@ -1,0 +1,2268 @@
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Web.dll.config
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Web.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Web.pdb
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\csc.exe
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\csc.exe.config
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\csc.rsp
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\csi.exe
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\csi.exe.config
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\csi.rsp
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.AppContext.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Console.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Net.Http.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\vbc.exe
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\vbc.exe.config
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\vbc.rsp
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Antlr3.Runtime.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\EntityFramework.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Newtonsoft.Json.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Owin.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.Helpers.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.Mvc.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.Optimization.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.Razor.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.WebPages.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\WebGrease.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.Helpers.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.Mvc.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.Optimization.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.Razor.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.WebPages.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Newtonsoft.Json.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Antlr3.Runtime.pdb
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\EntityFramework.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\obj\Debug\Web.dll
+C:\Users\bornt\OneDrive\Máy tính\Website\Web\Web\obj\Debug\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Web.dll.config
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Web.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\csc.exe
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\csc.exe.config
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\csc.rsp
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\csi.exe
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\csi.exe.config
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\csi.rsp
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.AppContext.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Console.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\vbc.exe
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\vbc.exe.config
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\vbc.rsp
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Antlr3.Runtime.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Newtonsoft.Json.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Owin.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.Helpers.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.Mvc.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.Optimization.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.WebPages.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\WebGrease.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.Helpers.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.Mvc.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.Optimization.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.WebPages.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Newtonsoft.Json.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Antlr3.Runtime.pdb
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\obj\Debug\Web.dll
+D:\ĐỒ ÁN WEB FINAL\New folder\Web\Web\obj\Debug\Web.pdb
+C:\CodeWeb\New folder\Web\Web\bin\Web.dll.config
+C:\CodeWeb\New folder\Web\Web\bin\Web.dll
+C:\CodeWeb\New folder\Web\Web\bin\Web.pdb
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\csc.exe
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\csc.exe.config
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\csc.rsp
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\csi.exe
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\csi.exe.config
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\csi.rsp
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.AppContext.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Console.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.IO.Compression.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Net.Http.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Net.Sockets.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.ValueTuple.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Xml.XPath.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\vbc.exe
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\vbc.exe.config
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\vbc.rsp
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\CodeWeb\New folder\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\CodeWeb\New folder\Web\Web\bin\Antlr3.Runtime.dll
+C:\CodeWeb\New folder\Web\Web\bin\EntityFramework.dll
+C:\CodeWeb\New folder\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\CodeWeb\New folder\Web\Web\bin\Newtonsoft.Json.dll
+C:\CodeWeb\New folder\Web\Web\bin\Owin.dll
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.Helpers.dll
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.Mvc.dll
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.Optimization.dll
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.Razor.dll
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.WebPages.dll
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\CodeWeb\New folder\Web\Web\bin\WebGrease.dll
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.Helpers.xml
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.Mvc.xml
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.Optimization.xml
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.Razor.xml
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.WebPages.xml
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\CodeWeb\New folder\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\CodeWeb\New folder\Web\Web\bin\Newtonsoft.Json.xml
+C:\CodeWeb\New folder\Web\Web\bin\Antlr3.Runtime.pdb
+C:\CodeWeb\New folder\Web\Web\bin\EntityFramework.xml
+C:\CodeWeb\New folder\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CodeWeb\New folder\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CodeWeb\New folder\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\CodeWeb\New folder\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\CodeWeb\New folder\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\CodeWeb\New folder\Web\Web\obj\Debug\Web.dll
+C:\CodeWeb\New folder\Web\Web\obj\Debug\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Web.dll.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Web.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\csc.exe
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\csc.exe.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\csc.rsp
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\csi.exe
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\csi.exe.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\csi.rsp
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.AppContext.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Console.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\vbc.exe
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\vbc.exe.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\vbc.rsp
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Antlr3.Runtime.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Newtonsoft.Json.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Owin.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.Helpers.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.Mvc.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.Optimization.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.WebPages.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\WebGrease.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.Helpers.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.Mvc.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.Optimization.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.WebPages.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Newtonsoft.Json.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Antlr3.Runtime.pdb
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\obj\Debug\Web.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web\Web\obj\Debug\Web.pdb
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Web.dll.config
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Web.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Web.pdb
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\csc.exe
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\csc.exe.config
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\csc.rsp
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\csi.exe
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\csi.exe.config
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\csi.rsp
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Console.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\vbc.exe
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\vbc.exe.config
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\vbc.rsp
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Antlr3.Runtime.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\EntityFramework.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Newtonsoft.Json.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Owin.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.Helpers.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.Mvc.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.Optimization.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.Razor.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.WebPages.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\WebGrease.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.Helpers.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.Mvc.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.Optimization.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.Razor.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.WebPages.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Newtonsoft.Json.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\EntityFramework.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CodeWeb\New folder (2)\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\CodeWeb\New folder (2)\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\CodeWeb\New folder (2)\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\CodeWeb\New folder (2)\Web22\Web\Web\obj\Debug\Web.dll
+C:\CodeWeb\New folder (2)\Web22\Web\Web\obj\Debug\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Web.dll.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Web.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\csc.exe
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\csi.exe
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Owin.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\WebGrease.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\obj\Debug\Web.dll
+D:\ĐỒ ÁN WEB FINAL\chinh sua gi de trong nay\Web22\Web\Web\obj\Debug\Web.pdb
+C:\CodeWeb\Web22\Web\Web\bin\Web.dll.config
+C:\CodeWeb\Web22\Web\Web\bin\Web.dll
+C:\CodeWeb\Web22\Web\Web\bin\Web.pdb
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\csc.exe
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\csc.exe.config
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\csc.rsp
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\csi.exe
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\csi.exe.config
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\csi.rsp
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Console.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\vbc.exe
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\vbc.exe.config
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\vbc.rsp
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\CodeWeb\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\CodeWeb\Web22\Web\Web\bin\Antlr3.Runtime.dll
+C:\CodeWeb\Web22\Web\Web\bin\EntityFramework.dll
+C:\CodeWeb\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\CodeWeb\Web22\Web\Web\bin\Newtonsoft.Json.dll
+C:\CodeWeb\Web22\Web\Web\bin\Owin.dll
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.Helpers.dll
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.Mvc.dll
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.Optimization.dll
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.Razor.dll
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.WebPages.dll
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\CodeWeb\Web22\Web\Web\bin\WebGrease.dll
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.Helpers.xml
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.Mvc.xml
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.Optimization.xml
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.Razor.xml
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.WebPages.xml
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\CodeWeb\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\CodeWeb\Web22\Web\Web\bin\Newtonsoft.Json.xml
+C:\CodeWeb\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+C:\CodeWeb\Web22\Web\Web\bin\EntityFramework.xml
+C:\CodeWeb\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CodeWeb\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CodeWeb\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\CodeWeb\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\CodeWeb\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\CodeWeb\Web22\Web\Web\obj\Debug\Web.dll
+C:\CodeWeb\Web22\Web\Web\obj\Debug\Web.pdb
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Web.dll.config
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Web.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Web.pdb
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\csc.exe
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\csc.exe.config
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\csc.rsp
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\csi.exe
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\csi.exe.config
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\csi.rsp
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Console.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\vbc.exe
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\vbc.exe.config
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\vbc.rsp
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Antlr3.Runtime.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\EntityFramework.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Newtonsoft.Json.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Owin.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.Helpers.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.Mvc.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.Optimization.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.Razor.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.WebPages.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\WebGrease.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.Helpers.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.Mvc.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.Optimization.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.Razor.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.WebPages.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Newtonsoft.Json.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\EntityFramework.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CodeWeb\New folder (3)\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\CodeWeb\New folder (3)\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\CodeWeb\New folder (3)\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\CodeWeb\New folder (3)\Web22\Web\Web\obj\Debug\Web.dll
+C:\CodeWeb\New folder (3)\Web22\Web\Web\obj\Debug\Web.pdb
+D:\Web22\Web\Web\bin\Web.dll.config
+D:\Web22\Web\Web\bin\Web.dll
+D:\Web22\Web\Web\bin\Web.pdb
+D:\Web22\Web\Web\bin\roslyn\csc.exe
+D:\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\Web22\Web\Web\bin\roslyn\csi.exe
+D:\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\Web22\Web\Web\bin\EntityFramework.dll
+D:\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\Web22\Web\Web\bin\Owin.dll
+D:\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\Web22\Web\Web\bin\WebGrease.dll
+D:\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\Web22\Web\Web\bin\EntityFramework.xml
+D:\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\Web22\Web\Web\obj\Debug\Web.dll
+D:\Web22\Web\Web\obj\Debug\Web.pdb
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Web.dll.config
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Web.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Web.pdb
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\csc.exe
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\csi.exe
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\EntityFramework.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Owin.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\WebGrease.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\EntityFramework.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ Án Cơ Sở\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\Đồ Án Cơ Sở\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Đồ Án Cơ Sở\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\Đồ Án Cơ Sở\Web22\Web\Web\obj\Debug\Web.dll
+D:\Đồ Án Cơ Sở\Web22\Web\Web\obj\Debug\Web.pdb
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Web.dll.config
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Web.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Web.pdb
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\csc.exe
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\csc.exe.config
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\csc.rsp
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\csi.exe
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\csi.exe.config
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\csi.rsp
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Console.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\vbc.exe
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\vbc.exe.config
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\vbc.rsp
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\CodeWeb\New folder\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Antlr3.Runtime.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\EntityFramework.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Newtonsoft.Json.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Owin.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.Helpers.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.Mvc.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.Optimization.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.Razor.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.WebPages.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\WebGrease.dll
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.Helpers.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.Mvc.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.Optimization.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.Razor.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.WebPages.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Newtonsoft.Json.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+C:\CodeWeb\New folder\Web22\Web\Web\bin\EntityFramework.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CodeWeb\New folder\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CodeWeb\New folder\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\CodeWeb\New folder\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\CodeWeb\New folder\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\CodeWeb\New folder\Web22\Web\Web\obj\Debug\Web.dll
+C:\CodeWeb\New folder\Web22\Web\Web\obj\Debug\Web.pdb
+D:\DOWLOAD\Web22\Web\Web\bin\Web.dll.config
+D:\DOWLOAD\Web22\Web\Web\bin\Web.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Web.pdb
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\csc.exe
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\csi.exe
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\DOWLOAD\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\DOWLOAD\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\DOWLOAD\Web22\Web\Web\bin\EntityFramework.dll
+D:\DOWLOAD\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\DOWLOAD\Web22\Web\Web\bin\Owin.dll
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\DOWLOAD\Web22\Web\Web\bin\WebGrease.dll
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\DOWLOAD\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\DOWLOAD\Web22\Web\Web\bin\EntityFramework.xml
+D:\DOWLOAD\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOWLOAD\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOWLOAD\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\DOWLOAD\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\DOWLOAD\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\DOWLOAD\Web22\Web\Web\obj\Debug\Web.dll
+D:\DOWLOAD\Web22\Web\Web\obj\Debug\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Web.dll.config
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Web.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\csc.exe
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\csi.exe
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Owin.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\WebGrease.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\obj\Debug\Web.dll
+D:\ĐỒ ÁN WEB FINAL\Web22\Web\Web\obj\Debug\Web.pdb
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Web.dll.config
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Web.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Web.pdb
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\csc.exe
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\csc.exe.config
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\csc.rsp
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\csi.exe
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\csi.exe.config
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\csi.rsp
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Console.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\vbc.exe
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\vbc.exe.config
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\vbc.rsp
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Antlr3.Runtime.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\EntityFramework.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Newtonsoft.Json.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Owin.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.Helpers.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.Mvc.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.Optimization.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.Razor.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.WebPages.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\WebGrease.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.Helpers.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.Mvc.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.Optimization.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.Razor.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.WebPages.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Newtonsoft.Json.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\EntityFramework.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CodeWeb\Final\New folder\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\CodeWeb\Final\New folder\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\CodeWeb\Final\New folder\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\CodeWeb\Final\New folder\Web22\Web\Web\obj\Debug\Web.dll
+C:\CodeWeb\Final\New folder\Web22\Web\Web\obj\Debug\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Web.dll.config
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Web.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\csc.exe
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\csi.exe
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Owin.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\WebGrease.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\obj\Debug\Web.dll
+D:\ĐỒ ÁN WEB FINAL\GAP LAM ROI\Web22\Web\Web\obj\Debug\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Web.dll.config
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Web.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\csc.exe
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\csi.exe
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Owin.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\WebGrease.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\obj\Debug\Web.dll
+D:\ĐỒ ÁN WEB FINAL\rotmedi\Web22\Web\Web\obj\Debug\Web.pdb
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\obj\Debug\Web.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\obj\Debug\Web.pdb
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Web.dll.config
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Web.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Web.pdb
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\csc.exe
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\csc.exe.config
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\csc.rsp
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\csi.exe
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\csi.exe.config
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\csi.rsp
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Console.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\vbc.exe
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\vbc.exe.config
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\vbc.rsp
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Antlr3.Runtime.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\EntityFramework.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Newtonsoft.Json.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Owin.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.Helpers.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.Mvc.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.Optimization.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.Razor.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.WebPages.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\WebGrease.dll
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.Helpers.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.Mvc.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.Optimization.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.Razor.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.WebPages.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Newtonsoft.Json.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\EntityFramework.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bornt\Documents\Zalo Received Files\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Web.dll.config
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Web.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Web.pdb
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\csc.exe
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\csi.exe
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Owin.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\WebGrease.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\obj\Debug\Web.dll
+D:\ĐỒ ÁN WEB FINAL\NOBAIGAP\Web22\Web\Web\obj\Debug\Web.pdb
+D:\WebKiNangMem\Web22\Web\Web\bin\Web.dll.config
+D:\WebKiNangMem\Web22\Web\Web\bin\Web.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Web.pdb
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\csc.exe
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\csi.exe
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\WebKiNangMem\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\WebKiNangMem\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\EntityFramework.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\Owin.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\WebGrease.dll
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\WebKiNangMem\Web22\Web\Web\bin\EntityFramework.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WebKiNangMem\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebKiNangMem\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\WebKiNangMem\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\WebKiNangMem\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\WebKiNangMem\Web22\Web\Web\obj\Debug\Web.dll
+D:\WebKiNangMem\Web22\Web\Web\obj\Debug\Web.pdb
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Web.dll.config
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Web.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Web.pdb
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\EntityFramework.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Owin.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\WebGrease.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\EntityFramework.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Web22\Web\Web\obj\Debug\Web.dll
+C:\Users\ADMIN\Downloads\Web22\Web\Web\obj\Debug\Web.pdb
+D:\duanweb\Web22\Web\Web\bin\Web.dll.config
+D:\duanweb\Web22\Web\Web\bin\Web.dll
+D:\duanweb\Web22\Web\Web\bin\Web.pdb
+D:\duanweb\Web22\Web\Web\bin\roslyn\csc.exe
+D:\duanweb\Web22\Web\Web\bin\roslyn\csc.exe.config
+D:\duanweb\Web22\Web\Web\bin\roslyn\csc.rsp
+D:\duanweb\Web22\Web\Web\bin\roslyn\csi.exe
+D:\duanweb\Web22\Web\Web\bin\roslyn\csi.exe.config
+D:\duanweb\Web22\Web\Web\bin\roslyn\csi.rsp
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\duanweb\Web22\Web\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.AppContext.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Console.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.IO.Compression.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Net.Http.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Net.Sockets.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.ValueTuple.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Xml.XPath.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\duanweb\Web22\Web\Web\bin\roslyn\vbc.exe
+D:\duanweb\Web22\Web\Web\bin\roslyn\vbc.exe.config
+D:\duanweb\Web22\Web\Web\bin\roslyn\vbc.rsp
+D:\duanweb\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe
+D:\duanweb\Web22\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\duanweb\Web22\Web\Web\bin\Antlr3.Runtime.dll
+D:\duanweb\Web22\Web\Web\bin\EntityFramework.dll
+D:\duanweb\Web22\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\duanweb\Web22\Web\Web\bin\Newtonsoft.Json.dll
+D:\duanweb\Web22\Web\Web\bin\Owin.dll
+D:\duanweb\Web22\Web\Web\bin\System.Web.Helpers.dll
+D:\duanweb\Web22\Web\Web\bin\System.Web.Mvc.dll
+D:\duanweb\Web22\Web\Web\bin\System.Web.Optimization.dll
+D:\duanweb\Web22\Web\Web\bin\System.Web.Razor.dll
+D:\duanweb\Web22\Web\Web\bin\System.Web.WebPages.Deployment.dll
+D:\duanweb\Web22\Web\Web\bin\System.Web.WebPages.dll
+D:\duanweb\Web22\Web\Web\bin\System.Web.WebPages.Razor.dll
+D:\duanweb\Web22\Web\Web\bin\WebGrease.dll
+D:\duanweb\Web22\Web\Web\bin\System.Web.Helpers.xml
+D:\duanweb\Web22\Web\Web\bin\System.Web.Mvc.xml
+D:\duanweb\Web22\Web\Web\bin\System.Web.Optimization.xml
+D:\duanweb\Web22\Web\Web\bin\System.Web.Razor.xml
+D:\duanweb\Web22\Web\Web\bin\System.Web.WebPages.xml
+D:\duanweb\Web22\Web\Web\bin\System.Web.WebPages.Deployment.xml
+D:\duanweb\Web22\Web\Web\bin\System.Web.WebPages.Razor.xml
+D:\duanweb\Web22\Web\Web\bin\Newtonsoft.Json.xml
+D:\duanweb\Web22\Web\Web\bin\Antlr3.Runtime.pdb
+D:\duanweb\Web22\Web\Web\bin\EntityFramework.xml
+D:\duanweb\Web22\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\duanweb\Web22\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\duanweb\Web22\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\duanweb\Web22\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\duanweb\Web22\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\duanweb\Web22\Web\Web\obj\Debug\Web.dll
+D:\duanweb\Web22\Web\Web\obj\Debug\Web.pdb
